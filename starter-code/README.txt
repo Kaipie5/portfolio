@@ -46,17 +46,17 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 10:00 am
 
-Finish time: 
+Finish time: 10:47am
 
-Actual time needed to complete: 
+Actual time needed to complete: 47 minutes
 
 Feature 1: Modify the contents
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 10:50am
 
-Finish time: 
+Finish time: 1:45pm
 
-Actual time needed to complete: 
+Actual time needed to complete: FOREVER!!! (3 hours)
 
