@@ -56,7 +56,7 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 10:50am
 
-Finish time: 
+Finish time: 1:45pm
 
-Actual time needed to complete: 
+Actual time needed to complete: FOREVER!!! (3 hours)
 
